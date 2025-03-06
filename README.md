@@ -1,4 +1,4 @@
-![alt text](./images/bottom.svg)
+![alt text](./images/svg(1).png)
 <!-- 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="300" width="900" alt="animated hello">  -->
 
@@ -30,4 +30,4 @@ Passionate about Coding, Data Science and AI. Occasionally participate in hackat
 
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#000b76" fill-opacity="1" d="M0,32L48,53.3C96,75,192,117,288,165.3C384,213,480,267,576,245.3C672,224,768,128,864,128C960,128,1056,224,1152,261.3C1248,299,1344,277,1392,266.7L1440,256L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
-![alt text](./images/bottom.svg)
+![alt text](./images/svg(2).png)
