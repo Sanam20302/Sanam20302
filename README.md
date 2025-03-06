@@ -1,4 +1,6 @@
-![alt text](./images/top.svg)
+![alt text](./images/bottom.svg)
+<!-- 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="300" width="900" alt="animated hello">  -->
 
 # About Me
 Passionate about Coding, Data Science and AI. Occasionally participate in hackathons.
