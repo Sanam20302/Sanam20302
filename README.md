@@ -1,11 +1,12 @@
 <div align="center">
   <h1><b>Hi, I'm Sanam!</b></h1>
-  <p><b>Co-Founder Xtratum Digital | AI & Data Science Enthusiast</b></p>
+  <p><b>Co-Founder Xtratum Digital &nbsp;&nbsp;|&nbsp;&nbsp; AI & Data Science Enthusiast</b></p>
 </div>
+
 <br>
-
 I am passionate about building impactful, scalable solutions, with hands-on experience spanning advanced Machine Learning models, Artificial Intelligence, game dev and full-stack dev.
-
+<br>
+<br>
 
 ## **Languages | Tools | DB** 
 <p align="left">
