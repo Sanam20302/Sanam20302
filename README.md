@@ -10,10 +10,13 @@ I am passionate about building impactful, scalable solutions, with hands-on expe
 
 ## **Languages | Tools | DB** 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,r,react,nextjs,c,js,html,sklearn" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,r,react,nextjs,c,js,html" alt="Programming Languages" />
 </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,fastapi,opencv,qt,chain" alt="Programming tools" />
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-00A6DA?style=flat-square) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square) ![PyGame](https://img.shields.io/badge/PyGame-F8E45C?style=flat-square)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square&logo=langgraph&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-00A6DA?style=flat-square) 
+</a>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
