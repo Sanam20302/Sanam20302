@@ -1,9 +1,17 @@
 <div align="center">
-  <h1><b>Hi, I'm Sanam!</b></h1>
-  <p><b>Co-Founder Xtratum Digital &nbsp;&nbsp;|&nbsp;&nbsp; AI & Data Science Enthusiast</b></p>
+  <h1><b>Heylo, I'm Sanam!</b></h1>
+  <p><b>Co-Founder <a href="https://xtratum.org" title="View company website">Xtratum Digital</a> &nbsp;&nbsp;|&nbsp;&nbsp; AI & Data Science Enthusiast</b></p>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sanamms" title="Linedin"><img src="https://skillicons.dev/icons?i=linkedin" height="22" /></a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/normal.who/" title="Follow me on instagram"><img src="https://skillicons.dev/icons?i=instagram" height="22" /></a>
+    &nbsp;&nbsp;
+    <a href="mailto:sanamms20302@gmail.com" title="Send an email"><img src="https://skillicons.dev/icons?i=gmail" height="22" /></a>
+  </p>
 </div>
-
 <br>
+
 I am passionate about building impactful, scalable solutions, with hands-on experience spanning advanced Machine Learning models, Artificial Intelligence, game dev and full-stack dev.
 <br>
 <br>
@@ -24,23 +32,14 @@ I am passionate about building impactful, scalable solutions, with hands-on expe
   <a href="https://fastapi.tiangolo.com" title="FastAPI"><img height="40" src="https://skillicons.dev/icons?i=fastapi" /></a>
   <a href="https://opencv.org" title="OpenCV"><img height="40" src="https://skillicons.dev/icons?i=opencv" /></a>
   <a href="https://doc.qt.io/qtforpython-6" title="PyQT"><img height="40" src="https://skillicons.dev/icons?i=qt" /></a>
-  <a href="www.spark.apache.org/" title="PySpark"><img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/spark/spark.png" /></a>
-  <a href="www.streamlit.io" title="Streamlit"><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/streamlit/streamlit.png" /></a>
-  <a href="www.microsoft.com/en-us/power-platform/products/power-bi/" title="PowerBI"><img height="40" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /></a>
-  <a href="www.microsoft.com/en-in/microsoft-365/excel" title="MS Excel"><img height="40" src="https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=msexcel&logoColor=white" /></a>
-  <a href="www.langchain.com/" title="LangChain"><img height="40" src="https://img.shields.io/badge/LangChain-708090?style=flat-square&logo=langchain&logoColor=white" /></a>
-  <a href="www.langchain.com/langgraph" title="LangGraph"><img height="40" src="https://img.shields.io/badge/LangGraph-D3D3D3?style=flat-square&logo=langgraph&logoColor=black" /></a>
-  <a href="www.pypi.org/project/mediapipe/" title="MediaPipe"><img height="40" src="https://img.shields.io/badge/Mediapipe-00A6DA?style=flat-square&logo=mediapipe&logoColor=white" /></a>
+  <a href="www.spark.apache.org/" title="PySpark"><img height="40" src="./images/pyspark.png" /></a>
+  <a href="www.streamlit.io" title="Streamlit"><img height="40" src="./images/streamlit.png" /></a>
+  <a href="www.microsoft.com/en-us/power-platform/products/power-bi/" title="PowerBI"><img height="40" src="./images/powerbi.png" /></a>
+  <a href="www.microsoft.com/en-in/microsoft-365/excel" title="MS Excel"><img height="40" src="./images/excel.png" /></a>
+  <a href="www.langchain.com/" title="LangChain"><img height="40" src="./images/langchain.png" /></a>
+  <a href="www.langchain.com/langgraph" title="LangGraph"><img height="40" src="./images/langgraph.png" /></a>
+  <a href="www.pypi.org/project/mediapipe/" title="MediaPipe"><img height="40" src="./images/mediapipe.png" /></a>
 
 <a href="www.mysql.com" title="MySQL"><img height="40" src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="www.mongodb.com" title="MongoDB"><img height="40" src="https://skillicons.dev/icons?i=mongodb" /></a>
-</p>
-  
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sanamms" title="Connect me on linkedin"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/normalwho" title="Follow me on instagram"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
-  <!-- <a href="https://www.hackerrank.com/profile/sanamms20302"><img height="40" src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a> -->
-  <a href="mailto:sanamms20302@gmail.com" title="Send an email"><img height="40" src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
