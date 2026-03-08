@@ -10,20 +10,20 @@ I am passionate about building impactful, scalable solutions, with hands-on expe
 
 ## **Languages | Tools | DB** 
 <p align="left">
-  <a href="https://skillicons.dev" title="Python"><img height="40" src="https://skillicons.dev/icons?i=python" /></a>
-  <a href="https://skillicons.dev" title="R"><img height="40" src="https://skillicons.dev/icons?i=r" /></a>
-  <a href="https://skillicons.dev" title="React"><img height="40" src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="https://skillicons.dev" title="NextJS"><img height="40" src="https://skillicons.dev/icons?i=nextjs" /></a>
-  <a href="https://skillicons.dev" title="C"><img height="40" src="https://skillicons.dev/icons?i=c" /></a>
-  <a href="https://skillicons.dev" title="JavaScript"><img height="40" src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://skillicons.dev" title="HTML"><img height="40" src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://www.python.org" title="Python"><img height="40" src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://www.r-project.org" title="R"><img height="40" src="https://skillicons.dev/icons?i=r" /></a>
+  <a href="https://react.dev" title="React"><img height="40" src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nextjs.org" title="NextJS"><img height="40" src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://www.learn-c.org" title="C"><img height="40" src="https://skillicons.dev/icons?i=c" /></a>
+  <a href="https://www.javascripttutorial.net/" title="JavaScript"><img height="40" src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://html5up.net" title="HTML"><img height="40" src="https://skillicons.dev/icons?i=html" /></a>
   
-  <a href="www.skillicons.dev" title="skLearn"><img height="40" src="https://skillicons.dev/icons?i=sklearn" /></a>
-  <a href="www.skillicons.dev" title="TensorFlow"><img height="40" src="https://skillicons.dev/icons?i=tensorflow" /></a>
-  <a href="www.skillicons.dev" title="PyTorch"><img height="40" src="https://skillicons.dev/icons?i=pytorch" /></a>
-  <a href="www.skillicons.dev" title="FastAPI"><img height="40" src="https://skillicons.dev/icons?i=fastapi" /></a>
-  <a href="www.skillicons.dev" title="OpenCV"><img height="40" src="https://skillicons.dev/icons?i=opencv" /></a>
-  <a href="www.skillicons.dev" title="PyQT"><img height="40" src="https://skillicons.dev/icons?i=qt" /></a>
+  <a href="https://scikit-learn.org" title="skLearn"><img height="40" src="https://skillicons.dev/icons?i=sklearn" /></a>
+  <a href="https://www.tensorflow.org" title="TensorFlow"><img height="40" src="https://skillicons.dev/icons?i=tensorflow" /></a>
+  <a href="https://pytorch.org" title="PyTorch"><img height="40" src="https://skillicons.dev/icons?i=pytorch" /></a>
+  <a href="https://fastapi.tiangolo.com" title="FastAPI"><img height="40" src="https://skillicons.dev/icons?i=fastapi" /></a>
+  <a href="https://opencv.org" title="OpenCV"><img height="40" src="https://skillicons.dev/icons?i=opencv" /></a>
+  <a href="https://doc.qt.io/qtforpython-6" title="PyQT"><img height="40" src="https://skillicons.dev/icons?i=qt" /></a>
   <a href="www.spark.apache.org/" title="PySpark"><img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/spark/spark.png" /></a>
   <a href="www.streamlit.io" title="Streamlit"><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/streamlit/streamlit.png" /></a>
   <a href="www.microsoft.com/en-us/power-platform/products/power-bi/" title="PowerBI"><img height="40" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /></a>
