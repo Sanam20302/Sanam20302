@@ -44,7 +44,7 @@ I am passionate about building impactful, scalable solutions, with hands-on expe
   &nbsp;
   <a href="https://doc.qt.io/qtforpython-6" title="PyQT"><img height="40" src="https://skillicons.dev/icons?i=qt" /></a>
   &nbsp;
-  <a href="https://www.spark.apache.org/" title="PySpark"><img height="40" src="./images/pyspark.png" /></a>
+  <a href="https://spark.apache.org/docs/latest/quick-start.html" title="PySpark"><img height="40" src="./images/pyspark.png" /></a>
   &nbsp;
   <a href="https://www.streamlit.io" title="Streamlit"><img height="40" src="./images/streamlit.png" /></a>
   &nbsp;
