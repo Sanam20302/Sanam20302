@@ -1,6 +1,6 @@
 <div align="center">
   <h1><b>Heylo, I'm Sanam!</b></h1>
-  <p><b>Co-Founder <a href="https://xtratum.org" title="View company website">Xtratum Digital</a> &nbsp;&nbsp;|&nbsp;&nbsp; AI & Data Science Enthusiast</b></p>
+  <p><b>Co-Founder <a href="https://xtratum.in" title="View company website">Xtratum Digital</a> &nbsp;&nbsp;|&nbsp;&nbsp; AI & Data Science Enthusiast</b></p>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/sanamms" title="Linedin"><img src="https://skillicons.dev/icons?i=linkedin" height="22" /></a>
